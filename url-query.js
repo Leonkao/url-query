@@ -5,6 +5,10 @@
         _return = {},
         _;
     
+    /**
+     * Translates the object to Array
+     * 转换对象为数组
+     */
     var _toArray = function(){
         _arr = [];
         for(var i in _return){
@@ -14,6 +18,9 @@
         return _arr;
     }
     
+    /**
+     * 判断 RUL 中是否含有查询信息
+     */
     if(_urlquery.length>0){
         _arr = _urlquery.split('&');
         for(var i =0; i<_arr.length; i++){
@@ -25,6 +32,7 @@
     }
     else
     {
+        // URL 中没有查询信息
         global.UrlQuery = null;
     }
 }(this);
