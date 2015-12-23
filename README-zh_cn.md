@@ -1,7 +1,6 @@
 # UrlQuery
 **UrlQuery** 是一个获取 URL 请求信息的 javascript 类。
-它会把 URL 中的请求字符串转换为 javascript 对象，
-URL 中的每一个字段都会对应到 UrlQuery 类的属性信息中。
+它会把 URL 中的请求字符串转换为 javascript 对象，URL 中的每一个字段都会对应到 UrlQuery 类的属性信息中。
 
 # API
 **UrlQuery** 类的信息如下：
