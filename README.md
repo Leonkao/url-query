@@ -1,9 +1,6 @@
-# url-query
-This is a url-query-params with javascript.
-It will translates the url string to an javascript Object, and name as UrlQuery.
-
 # UrlQuery
-**_UrlQuery_** is a object, it has 
+**_UrlQuery_**  is a url-query-params with javascript.
+It will translates the url string to an javascript Object, and name as UrlQuery.
 
 # Example
 Input:
