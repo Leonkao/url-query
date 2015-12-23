@@ -6,6 +6,7 @@ It will translates the url string to an javascript Object, and name as UrlQuery.
 Input:
 //loacalhost/?action=view&articleid=999
 ```
+<script src="url-query.min.js"></script>
 console.log(UrlQuery);
 ```
 Output:
