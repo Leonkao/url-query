@@ -1,6 +1,6 @@
 # UrlQuery
-The **_UrlQuery_**  is a url-query-params with javascript.
-It will translates the url string to an javascript Object, and name as UrlQuery.
+The **_UrlQuery_**  is an url-query-params with javascript.
+It will translates the url string to javascript Object, and name as UrlQuery.
 
 # API
 **UrlQuery**
